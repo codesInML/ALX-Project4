@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/codesInML/ALX-Project4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/codesInML/ALX-Project4/tree/master)
 
 ## Project Overview
 
